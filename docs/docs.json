@@ -1421,6 +1421,7 @@
                   "providers/claude-max-api-proxy",
                   "providers/cloudflare-ai-gateway",
                   "providers/comfy",
+                  "providers/coreweave",
                   "providers/deepgram",
                   "providers/deepinfra",
                   "providers/deepseek",
